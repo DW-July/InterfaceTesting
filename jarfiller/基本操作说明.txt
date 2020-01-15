@@ -1,0 +1,3 @@
+moco-runner-0.11.0-standalone.jar
+启动命令：
+java -jar ./moco-runner-0.11.0-standalone.jar -p 8888 -c startup1.json(json配置文件)
